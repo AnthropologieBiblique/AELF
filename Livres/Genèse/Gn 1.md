@@ -13,6 +13,8 @@ direction : ltr
 # Genèse 1
 
 ###### 1
+==MODIF==
+
 AU COMMENCEMENT,
 Dieu créa le ciel et la terre.
 ###### 2
